@@ -1,0 +1,13 @@
+numpy
+scipy
+statsmodels
+pandas
+openpyxl
+xlrd
+matplotlib
+python-docx
+pypdf
+pillow
+pyTelegramBotAPI
+google-generativeai
+reportlab
